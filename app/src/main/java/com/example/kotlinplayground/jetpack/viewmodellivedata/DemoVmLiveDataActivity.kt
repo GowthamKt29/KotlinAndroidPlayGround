@@ -1,0 +1,3 @@
+package com.example.kotlinplayground.jetpack.viewmodellivedata
+
+class DemoVmLiveDataActivity
